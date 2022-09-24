@@ -1,0 +1,14 @@
+Variables: 
+    Las variables permiten almacenar un valor de cualquier tipo en un espacio de memoria al que luego podremos acceder invocando el nombre de la misma.
+
+Strings
+    El string es uno de los tipos de datos que se utiliza en JavaScript, utilizado para cadenas de texto.
+
+Funciones (argumentos, return)
+    Las funciones son bloques de código reutilizable destinados a la realización de una tarea determinada. Devuelven un resultado a través de la palabra reservada return, y pueden recibir parámetros o argumentos que utilizarán en su proceso para devolver un resultado correspondiente.
+
+Declaraciones if
+    Las declaraciones if permiten someter cierto bloque de código a una condición necesaria que deberá evaluarse verdadera para su ejecución.
+
+Valores booleanos (true, false)
+    Los valores booleanos son tipos de datos que representan los valores binarios verdadero y falso, respectivamente.
