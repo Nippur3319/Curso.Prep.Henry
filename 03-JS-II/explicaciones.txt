@@ -1,0 +1,14 @@
+
+for
+    La expresión for permite generar un bucle de código que se ejecutará siempre que la condición se cumpla. Permite iterar arrays. Se estructura con tres expresiones entre paréntesis separadas por comas: la inicial, que normalmente se utiliza para crear el contador, la condición a la que se sujeta la ejecución del bloque de código encerrado en el bucle for; y la final, que generalmente es usada para incrementar el contador.
+
+
+&&
+    El operador && equivale a "and" o "y", es decir, permite generar una expresión lógica en la que tienen que ser verdaderas más de una condición para que se ejecute el bloque de código a la que se la sujeta.
+
+ ||
+    El operador || equivale a "or" u "o", permite generar una expresión lógica donde la secuencia de código se ejecutará si una de las condiciones es verdadera.
+ 
+ !
+    El operador ! equivale a "not" o "no", permite generar una expresión lógica que niega el operador al que antecede, por ejemplo: !== significa "distinto de", !false significa verdadero, y !true significa falso.
+
