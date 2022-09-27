@@ -1,0 +1,2 @@
+Arrays
+    Los arrays o arreglos son una manera de almacenar colecciones de datos, y luego acceder a ellos según el número de posición, comenzando por 0. Se delimitan por corchetes y cada elemento se separa del siguiente mediante la coma.   
