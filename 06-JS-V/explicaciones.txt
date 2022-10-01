@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`
+    Prototype es el objeto prototipo o "plantilla" desde el cual cada instancia de clase de dicho objeto (cada "copia") hereda las propiedades que dicho objeto posee, de manera tal de no duplicar código, para hacer más eficiente uso de los recursos. Por ejemplo, cada nuevo Array hereda del prototipo sus métodos, como "map", "slice", "pop", etc.
+
+* _Constructors_ (de Clases)
+    El método constructor sirve para crear un objeto a partir de una clase.
